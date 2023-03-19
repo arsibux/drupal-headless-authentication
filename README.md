@@ -1,1 +1,1 @@
-# drupal-headless-authentication
+# Headless Drupal Authentication
